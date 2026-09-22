@@ -1,7 +1,7 @@
 # 字字动画 UPdream 插件
 版本发布与自动更新仓库。公开下载，激活后使用。
 ## 下载
-请在 [最新发布版](https://github.com/IDENTITYRS/updream-updates/releases/latest) 下载名称为“字字动画UPdream插件·发布版V版本号.zip”的完整安装包。请勿下载 GitHub 自动生成的 Source code 压缩包。
+请在 [最新发布版](https://github.com/IDENTITYRS/updream-updates/releases/latest) 下载名称以 `updream-` 开头、以 `-full.zip` 结尾的完整安装包（压缩包内为中文插件目录）。请勿下载 GitHub 自动生成的 Source code 压缩包。
 ## 首次安装或升级
 - 新用户：把完整插件目录放进字字动画的 `_internal/plugins/video_plugins/`，重启后选择 UPdream 插件。
 - 已有用户：完全退出字字动画，把包内程序覆盖到原插件目录。保留原目录名，不能删除整个目录或新套一层目录。
